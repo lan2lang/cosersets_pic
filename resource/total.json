@@ -1,0 +1,1085 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "data": {
+    "files": [
+      {
+        "name": "Azami",
+        "time": "2021-05-14 01:33",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Bambi밤비",
+        "time": "2021-05-14 01:33",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Byoru",
+        "time": "2021-05-14 01:33",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Fushii_海堂",
+        "time": "2021-05-14 01:33",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "G44不会受伤",
+        "time": "2021-05-15 16:44",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Godzilla",
+        "time": "2021-05-14 01:33",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "JKFUN",
+        "time": "2021-05-14 01:35",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "KETTOE",
+        "time": "2021-05-14 01:35",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Kitaro_绮太郎",
+        "time": "2021-05-14 01:36",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Kuuko W",
+        "time": "2021-05-14 01:36",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Messie Huang",
+        "time": "2021-05-14 01:36",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Momoko葵葵",
+        "time": "2021-05-14 01:37",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Money冷冷",
+        "time": "2021-05-14 01:37",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "NinJA阿寨寨",
+        "time": "2021-05-14 01:37",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Nyako喵子",
+        "time": "2021-05-14 01:37",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "PAKI酱",
+        "time": "2021-05-14 01:37",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Rioko凉凉子",
+        "time": "2021-05-15 16:44",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Sayathefox",
+        "time": "2021-05-14 01:38",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Shika小鹿鹿",
+        "time": "2021-05-21 03:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Uki雨季",
+        "time": "2021-05-21 03:10",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "Yoko宅夏",
+        "time": "2021-05-14 01:39",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "izumi泉桃子",
+        "time": "2021-05-14 01:39",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "kaya萱",
+        "time": "2021-05-14 01:39",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "lovely呆玄",
+        "time": "2021-05-14 01:39",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "nagisa魔物喵",
+        "time": "2021-05-14 01:44",
+        "size": 32768,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "vams子",
+        "time": "2021-05-14 01:44",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "yui金鱼",
+        "time": "2021-05-14 01:44",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "一千只猫薄禾",
+        "time": "2021-05-14 01:44",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "一小央泽",
+        "time": "2021-05-14 01:45",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "一笑芳香沁",
+        "time": "2021-05-15 16:45",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "一米八的大梨子",
+        "time": "2021-05-21 03:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "七月喵子",
+        "time": "2021-05-14 01:46",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "三度_69",
+        "time": "2021-05-15 16:45",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "不呆猫",
+        "time": "2021-05-21 03:12",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "九曲Jean",
+        "time": "2021-05-14 01:47",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "二佐Nisa",
+        "time": "2021-05-15 16:46",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "五更百鬼",
+        "time": "2021-05-14 01:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "你的负卿",
+        "time": "2021-05-14 01:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "佳佳好难啊",
+        "time": "2021-05-14 01:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "千夜未来",
+        "time": "2021-05-15 16:46",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "半半子",
+        "time": "2021-05-14 01:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "南宫",
+        "time": "2021-05-14 01:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "南桃Momoko",
+        "time": "2021-05-14 01:49",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "叉子宝宝",
+        "time": "2021-05-14 01:49",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "名濑弥七",
+        "time": "2021-05-14 01:49",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "周叽是可爱兔兔",
+        "time": "2021-05-15 16:47",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "啊日日_Ganlory",
+        "time": "2021-05-14 01:49",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "塔塔_Lo1iTa",
+        "time": "2021-05-14 01:49",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "墨玉-M",
+        "time": "2021-05-14 01:49",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "夏鸽鸽不想起床",
+        "time": "2021-05-21 03:12",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "奈汐酱nice",
+        "time": "2021-05-14 01:50",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "如月灰",
+        "time": "2021-05-14 01:50",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "妖少",
+        "time": "2021-05-14 01:50",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "小仓千代w",
+        "time": "2021-05-14 01:50",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "小女巫露娜",
+        "time": "2021-05-14 01:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "小容仔咕咕咕w",
+        "time": "2021-05-14 01:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "小野妹子",
+        "time": "2021-05-14 01:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "弥音音ww",
+        "time": "2021-05-14 01:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "御子Yumiko",
+        "time": "2021-05-14 01:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "念念_D",
+        "time": "2021-05-14 01:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "抖娘_利世",
+        "time": "2021-05-14 01:52",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "抱走莫子aa",
+        "time": "2021-05-21 03:13",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "日奈娇",
+        "time": "2021-05-14 01:53",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "星之迟迟",
+        "time": "2021-05-21 03:14",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "星澜是澜澜叫澜妹呀",
+        "time": "2021-05-21 03:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "星野saori",
+        "time": "2021-05-14 01:55",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "星野咪兔",
+        "time": "2021-05-14 01:55",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "是依酱呀",
+        "time": "2021-05-14 01:55",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "是本末末",
+        "time": "2021-05-14 01:55",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "晕崽Zz",
+        "time": "2021-05-14 02:44",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "曉美媽",
+        "time": "2021-05-14 01:56",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "木绵绵OwO",
+        "time": "2021-05-14 01:56",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "木花琳琳是勇者",
+        "time": "2021-05-14 01:58",
+        "size": 12288,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "果咩酱w",
+        "time": "2021-05-15 16:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "桜井宁宁",
+        "time": "2021-05-15 16:48",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "桜桃喵",
+        "time": "2021-05-14 02:01",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "森萝财团",
+        "time": "2021-05-14 02:08",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "樱群",
+        "time": "2021-05-14 02:08",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "樱落酱w",
+        "time": "2021-05-14 02:08",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "水淼Aqua",
+        "time": "2021-05-21 03:16",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "沧霁桔梗",
+        "time": "2021-05-14 02:09",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "洛璃LoLiSAMA",
+        "time": "2021-05-14 02:09",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "清水由乃",
+        "time": "2021-05-21 03:16",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "炸酱沐沐",
+        "time": "2021-05-14 02:41",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "焖焖碳",
+        "time": "2021-05-14 02:41",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "無料bot",
+        "time": "2021-05-14 02:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "爱老师_PhD",
+        "time": "2021-05-14 02:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "猫君君",
+        "time": "2021-05-14 02:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "猫田圣奈奈",
+        "time": "2021-05-14 02:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "王胖胖u",
+        "time": "2021-05-14 02:11",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "瓜希酱",
+        "time": "2021-05-14 02:12",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "疯猫ss",
+        "time": "2021-05-21 03:16",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "白烨",
+        "time": "2021-05-14 02:45",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "白金Saki",
+        "time": "2021-05-14 02:13",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "白银81",
+        "time": "2021-05-21 03:17",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "皮皮奶可可爱了啦",
+        "time": "2021-05-14 02:16",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "眼酱大魔王w",
+        "time": "2021-05-21 03:17",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "神楽坂真冬",
+        "time": "2021-05-14 02:19",
+        "size": 12288,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "秋和柯基",
+        "time": "2021-05-15 16:51",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "羊大真人",
+        "time": "2021-05-14 02:20",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "羽生三未",
+        "time": "2021-05-14 02:20",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "芋圆侑子",
+        "time": "2021-05-14 02:20",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "苏嫣嫣阿姨",
+        "time": "2021-05-14 02:20",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "菌烨tako",
+        "time": "2021-05-14 02:20",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "蜜汁猫裘",
+        "time": "2021-05-21 03:17",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "蠢沫沫",
+        "time": "2021-05-15 16:52",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "西呱呀呀呀",
+        "time": "2021-05-14 02:22",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "西园寺南歌",
+        "time": "2021-05-14 02:22",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "起司块wii",
+        "time": "2021-05-14 02:23",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "轩萧学姐",
+        "time": "2021-05-14 02:23",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "过期米线线喵",
+        "time": "2021-05-14 02:24",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "迷失人形QUQ",
+        "time": "2021-05-14 02:24",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "銘銘Kizami",
+        "time": "2021-05-14 02:25",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "铁板烧鬼舞w",
+        "time": "2021-05-14 02:25",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "镜酱",
+        "time": "2021-05-14 02:26",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "阿包也是兔娘",
+        "time": "2021-05-21 03:21",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "阿半今天很开心",
+        "time": "2021-05-21 03:20",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "阿薰kaOri",
+        "time": "2021-05-14 02:26",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "陆卿卿",
+        "time": "2021-05-14 02:26",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "雪晴Astra",
+        "time": "2021-05-15 16:52",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "雪琪SAMA",
+        "time": "2021-05-14 02:27",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "雯妹不讲道理",
+        "time": "2021-05-14 02:28",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "霜月shimo",
+        "time": "2021-05-21 03:21",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "青青子JS",
+        "time": "2021-05-14 02:28",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "面饼仙儿",
+        "time": "2021-05-14 02:29",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "香草喵露露",
+        "time": "2021-05-21 03:22",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "鬼畜瑶在不在w",
+        "time": "2021-05-14 02:29",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "鳗鱼霏儿",
+        "time": "2021-05-21 03:22",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "鹿野希",
+        "time": "2021-05-14 02:30",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "麻花麻花酱",
+        "time": "2021-05-14 02:50",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "黑川",
+        "time": "2021-05-14 02:31",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      },
+      {
+        "name": "黑猫猫OvO",
+        "time": "2021-05-14 02:31",
+        "size": 4096,
+        "type": "FOLDER",
+        "path": "/",
+        "url": null
+      }
+    ],
+    "config": {
+      "siteName": "Cosersets",
+      "searchEnable": false,
+      "username": "madoka",
+      "domain": "https://zfile.cosersets.com",
+      "customJs": "",
+      "customCss": "",
+      "tableSize": "medium",
+      "showOperator": null,
+      "showDocument": null,
+      "announcement": "",
+      "showAnnouncement": null,
+      "layout": "center",
+      "readme": null,
+      "debugMode": false,
+      "defaultSwitchToImgMode": true,
+      "showLinkBtn": true,
+      "showShortLink": true,
+      "showPathLink": true,
+      "directLinkPrefix": "directlink"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+import os
+import requests
+import json
+
+from tqdm import tqdm
+
+# #解决代理问题
+os.environ["http_proxy"] = "http://127.0.0.1:7890"
+os.environ["https_proxy"] = "http://127.0.0.1:7890"
+
+api = 'https://www.cosersets.com/api/list/1?path=/'
+
+skip_key = {'早期', '直播', '指挥官'}
+
+name = '神楽坂真冬'
+
+
+def download_from_json(data):
+    """
+        备份
+    :param data:
+    :return:
+    """
+    # 获取第一个文件的URL
+    file_url = data['data']['files'][0]['url']
+    # 根据URL构建目录名
+    dir_name = f"{file_url.split('/')[-3]}/{file_url.split('/')[-2]}"
+
+    # 创建目录，如果目录已存在则忽略
+    os.makedirs(dir_name, exist_ok=True)
+
+    print(dir_name)
+
+    # 遍历所有文件数据
+    for item in data['data']['files']:
+        url = item['url']
+        img_data = requests.get(url).content
+        fname = url.split('/')[-1]
+
+        # 构建文件的完整路径
+        file_path = os.path.join(dir_name, fname)
+
+        # 将图片数据写入文件
+        with open(file_path, 'wb') as f:
+            f.write(img_data)
+
+
+# 根据人名请求api
+contain_dir_json = requests.get(api + name).text
+
+# 解析返回的json
+data = json.loads(contain_dir_json)['data']['files']
+
+# 再次循环请求具体地址
+for i in data:
+    flag = True
+    for key in skip_key:
+        if key in i['name']:
+            print(f'已跳过{i["name"]}')
+            flag = False
+            break
+
+    if not flag:
+        continue
+
+    # 拼接请求地址
+    address = api + name + '/' + i['name']
+
+    # 请求
+    pic_address_json = requests.get(address).text
+
+    # 解析json
+    info = json.loads(pic_address_json)
+
+    # print(info)
+    # 下载图片
+    download_from_json(info)
+
+# 解析json获取到下载地址，下载图片

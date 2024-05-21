@@ -1,0 +1,349 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "data": {
+    "files": [
+      {
+        "name": "01.webp",
+        "time": "2021-02-26 03:10",
+        "size": 126876,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/01.webp"
+      },
+      {
+        "name": "02.webp",
+        "time": "2021-02-26 03:10",
+        "size": 163350,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/02.webp"
+      },
+      {
+        "name": "03.webp",
+        "time": "2021-02-26 03:10",
+        "size": 148038,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/03.webp"
+      },
+      {
+        "name": "04.webp",
+        "time": "2021-02-26 03:10",
+        "size": 98388,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/04.webp"
+      },
+      {
+        "name": "05.webp",
+        "time": "2021-02-26 03:10",
+        "size": 94500,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/05.webp"
+      },
+      {
+        "name": "06.webp",
+        "time": "2021-02-26 03:10",
+        "size": 251490,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/06.webp"
+      },
+      {
+        "name": "07.webp",
+        "time": "2021-02-26 03:10",
+        "size": 145588,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/07.webp"
+      },
+      {
+        "name": "08.webp",
+        "time": "2021-02-26 03:10",
+        "size": 171008,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/08.webp"
+      },
+      {
+        "name": "09.webp",
+        "time": "2021-02-26 03:10",
+        "size": 259026,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/09.webp"
+      },
+      {
+        "name": "10.webp",
+        "time": "2021-02-26 03:10",
+        "size": 191650,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/10.webp"
+      },
+      {
+        "name": "11.webp",
+        "time": "2021-02-26 03:10",
+        "size": 214612,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/11.webp"
+      },
+      {
+        "name": "12.webp",
+        "time": "2021-02-26 03:10",
+        "size": 147172,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/12.webp"
+      },
+      {
+        "name": "13.webp",
+        "time": "2021-02-26 03:10",
+        "size": 208190,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/13.webp"
+      },
+      {
+        "name": "14.webp",
+        "time": "2021-02-26 03:10",
+        "size": 115686,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/14.webp"
+      },
+      {
+        "name": "15.webp",
+        "time": "2021-02-26 03:10",
+        "size": 173618,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/15.webp"
+      },
+      {
+        "name": "16.webp",
+        "time": "2021-02-26 03:10",
+        "size": 144562,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/16.webp"
+      },
+      {
+        "name": "17.webp",
+        "time": "2021-02-26 03:10",
+        "size": 126328,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/17.webp"
+      },
+      {
+        "name": "18.webp",
+        "time": "2021-02-26 03:10",
+        "size": 108540,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/18.webp"
+      },
+      {
+        "name": "19.webp",
+        "time": "2021-02-26 03:10",
+        "size": 144344,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/19.webp"
+      },
+      {
+        "name": "20.webp",
+        "time": "2021-02-26 03:10",
+        "size": 139286,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/20.webp"
+      },
+      {
+        "name": "21.webp",
+        "time": "2021-02-26 03:10",
+        "size": 202444,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/21.webp"
+      },
+      {
+        "name": "22.webp",
+        "time": "2021-02-26 03:10",
+        "size": 186902,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/22.webp"
+      },
+      {
+        "name": "23.webp",
+        "time": "2021-02-26 03:10",
+        "size": 120460,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/23.webp"
+      },
+      {
+        "name": "24.webp",
+        "time": "2021-02-26 03:10",
+        "size": 160218,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/24.webp"
+      },
+      {
+        "name": "25.webp",
+        "time": "2021-02-26 03:10",
+        "size": 105536,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/25.webp"
+      },
+      {
+        "name": "26.webp",
+        "time": "2021-02-26 03:10",
+        "size": 125266,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/26.webp"
+      },
+      {
+        "name": "27.webp",
+        "time": "2021-02-26 03:10",
+        "size": 145530,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/27.webp"
+      },
+      {
+        "name": "28.webp",
+        "time": "2021-02-26 03:10",
+        "size": 176048,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/28.webp"
+      },
+      {
+        "name": "29.webp",
+        "time": "2021-02-26 03:10",
+        "size": 129762,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/29.webp"
+      },
+      {
+        "name": "30.webp",
+        "time": "2021-02-26 03:10",
+        "size": 268930,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/30.webp"
+      },
+      {
+        "name": "31.webp",
+        "time": "2021-02-26 03:10",
+        "size": 251902,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/31.webp"
+      },
+      {
+        "name": "32.webp",
+        "time": "2021-02-26 03:10",
+        "size": 124222,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/32.webp"
+      },
+      {
+        "name": "33.webp",
+        "time": "2021-02-26 03:10",
+        "size": 132688,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/33.webp"
+      },
+      {
+        "name": "34.webp",
+        "time": "2021-02-26 03:10",
+        "size": 59640,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/34.webp"
+      },
+      {
+        "name": "35.webp",
+        "time": "2021-02-26 03:10",
+        "size": 94944,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/35.webp"
+      },
+      {
+        "name": "36.webp",
+        "time": "2021-02-26 03:10",
+        "size": 135772,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/36.webp"
+      },
+      {
+        "name": "37.webp",
+        "time": "2021-02-26 03:10",
+        "size": 307700,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/37.webp"
+      },
+      {
+        "name": "38.webp",
+        "time": "2021-02-26 03:10",
+        "size": 110376,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/38.webp"
+      },
+      {
+        "name": "39.webp",
+        "time": "2021-02-26 03:10",
+        "size": 218758,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/39.webp"
+      },
+      {
+        "name": "40.webp",
+        "time": "2021-02-26 03:10",
+        "size": 106706,
+        "type": "FILE",
+        "path": "/Fushii_海堂/洛丽塔/",
+        "url": "https://zfile.cosersets.com/file/1/Fushii_海堂/洛丽塔/40.webp"
+      }
+    ],
+    "config": {
+      "siteName": "Cosersets",
+      "searchEnable": false,
+      "username": "madoka",
+      "domain": "https://zfile.cosersets.com",
+      "customJs": "",
+      "customCss": "",
+      "tableSize": "medium",
+      "showOperator": null,
+      "showDocument": null,
+      "announcement": "",
+      "showAnnouncement": null,
+      "layout": "center",
+      "readme": null,
+      "debugMode": false,
+      "defaultSwitchToImgMode": true,
+      "showLinkBtn": true,
+      "showShortLink": true,
+      "showPathLink": true,
+      "directLinkPrefix": "directlink"
+    }
+  }
+}

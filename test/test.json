@@ -1,0 +1,149 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "data": {
+    "files": [
+      {
+        "name": "001.webp",
+        "time": "2021-02-27 02:58",
+        "size": 310774,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/001.webp"
+      },
+      {
+        "name": "002.webp",
+        "time": "2021-02-27 02:58",
+        "size": 282024,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/002.webp"
+      },
+      {
+        "name": "003.webp",
+        "time": "2021-02-27 02:58",
+        "size": 268736,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/003.webp"
+      },
+      {
+        "name": "004.webp",
+        "time": "2021-02-27 02:58",
+        "size": 318268,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/004.webp"
+      },
+      {
+        "name": "005.webp",
+        "time": "2021-02-27 02:58",
+        "size": 307294,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/005.webp"
+      },
+      {
+        "name": "006.webp",
+        "time": "2021-02-27 02:58",
+        "size": 307226,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/006.webp"
+      },
+      {
+        "name": "007.webp",
+        "time": "2021-02-27 02:58",
+        "size": 190726,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/007.webp"
+      },
+      {
+        "name": "008.webp",
+        "time": "2021-02-27 02:58",
+        "size": 266024,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/008.webp"
+      },
+      {
+        "name": "009.webp",
+        "time": "2021-02-27 02:58",
+        "size": 295526,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/009.webp"
+      },
+      {
+        "name": "010.webp",
+        "time": "2021-02-27 02:58",
+        "size": 314514,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/010.webp"
+      },
+      {
+        "name": "011.webp",
+        "time": "2021-02-27 02:58",
+        "size": 369526,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/011.webp"
+      },
+      {
+        "name": "012.webp",
+        "time": "2021-02-27 02:58",
+        "size": 311340,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/012.webp"
+      },
+      {
+        "name": "013.webp",
+        "time": "2021-02-27 02:58",
+        "size": 317682,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/013.webp"
+      },
+      {
+        "name": "014.webp",
+        "time": "2021-02-27 02:58",
+        "size": 258818,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/014.webp"
+      },
+      {
+        "name": "015.webp",
+        "time": "2021-02-27 02:58",
+        "size": 291556,
+        "type": "FILE",
+        "path": "/黑猫猫OvO/以津真天/",
+        "url": "https://zfile.cosersets.com/file/1/黑猫猫OvO/以津真天/015.webp"
+      }
+    ],
+    "config": {
+      "siteName": "Cosersets",
+      "searchEnable": false,
+      "username": "madoka",
+      "domain": "https://zfile.cosersets.com",
+      "customJs": "",
+      "customCss": "",
+      "tableSize": "medium",
+      "showOperator": null,
+      "showDocument": null,
+      "announcement": "",
+      "showAnnouncement": null,
+      "layout": "center",
+      "readme": null,
+      "debugMode": false,
+      "defaultSwitchToImgMode": true,
+      "showLinkBtn": true,
+      "showShortLink": true,
+      "showPathLink": true,
+      "directLinkPrefix": "directlink"
+    }
+  }
+}
