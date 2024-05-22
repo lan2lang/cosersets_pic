@@ -53,7 +53,7 @@ if __name__ == '__main__':
     os.environ["https_proxy"] = "http://127.0.0.1:7890"
 
     name = 'kaya萱_887'
-    dir = 'json/'
+    dir = '../json/'
     # url_list = []
     # 从json中读取链接
     with open(dir + name + '.json', 'r',encoding='utf-8') as f:

@@ -11,7 +11,7 @@ os.environ["http_proxy"] = "http://127.0.0.1:7890"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
 
 # 保存目录
-dir = 'download/瓜希酱_670/'
+dir = '../download/瓜希酱_670/'
 
 
 def download_from_json(file_name):
@@ -39,4 +39,4 @@ def download_from_json(file_name):
 
 if __name__ == "__main__":
     # 调用下载函数
-    download_from_json('json/瓜希酱_670.json')
+    download_from_json('../json/瓜希酱_670.json')
